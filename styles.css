@@ -1,0 +1,34 @@
+body {
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	background-image: url("https://images.indianexpress.com/2020/06/astronuat-space-pixabay-759.jpg");
+	background-size:cover;
+	background-position: center bottom;
+	color:white;
+	font-size:110%;
+}
+
+img {
+	height:500px;
+	width:1000px;
+}
+
+.sideinfo {
+	float:right;
+}
+
+.header {
+	background-image: url("mars.jpg");
+	background-size:cover;
+	height:400px;
+	opacity:0.8;
+}
+
+#headerwords {
+	padding-top:320px;
+}
+
+img {
+	opacity:0.75;
+}
