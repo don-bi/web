@@ -1,0 +1,47 @@
+body {
+    background-color: #171717;
+    color: white;
+    font-family: "garamond";
+}
+
+.head1 {
+  color: #171717	;
+  text-align: center;
+  background-color: beige;
+}
+
+.head2 {
+  color: #171717	;
+  text-align: center;
+  background-color: beige;
+}
+
+h3 {
+  text-align: center;
+}
+
+#contents {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.pic1 {
+  margin: 30px auto 30px;
+  text-align: center;
+}
+
+.toc {
+  background: beige;
+  border: 5px solid #D3D3D3;
+  display: table;
+  padding-right: 30px;
+  width: auto;
+  margin: 20px auto 20px;
+  padding-left: 10px;
+  color: #171717;
+}
+
+p {
+  text-indent: 20px;
+}
