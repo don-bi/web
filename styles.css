@@ -1,7 +1,10 @@
 body {
-    background-color: #171717;
     color: white;
     font-family: "garamond";
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/019/044/805/large/oliver-chipping-sru-estshot.jpg?1561756520");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .head1 {
@@ -24,6 +27,14 @@ h3 {
   text-align: center;
   font-weight: bold;
   font-size: 20px;
+}
+
+#section {
+  display: table;
+  margin: 20px 50px 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: rgba(27,27,27,.7);
 }
 
 .pic1 {
