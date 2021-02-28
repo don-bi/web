@@ -23,6 +23,11 @@ header {
   margin: 15px 300px 0px;
 }
 
+
+.notice {
+  font-style: italic;
+}
+
 p {
   text-indent: 20px;
   padding-left: 20px;
@@ -75,4 +80,12 @@ p a {
   padding-left: 20px;
   padding-right: 20px;
   font-family: arial;
+}
+
+.centered {
+  text-align: center;
+}
+
+.icon {
+  margin-top: 5px;
 }
