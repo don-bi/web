@@ -89,3 +89,33 @@ p a {
 .icon {
   margin-top: 5px;
 }
+
+.dropdown {
+  float: left;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 161px;
+  background-color: rgba(0,0,0,.8);
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: #edcd77;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #828786;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
